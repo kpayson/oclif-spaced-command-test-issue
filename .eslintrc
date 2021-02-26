@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "oclif",
+    "oclif-typescript"
+  ],
+  "rules": {
+    "semi": "off",
+    "indent":  "off",
+    "quotes":  "off",
+    "object-curly-spacing":  "off"
+  }
+}
